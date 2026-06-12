@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://riteshkumar.dev/sitemap.xml
