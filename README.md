@@ -1,3 +1,9 @@
+<img width="1470" height="786" alt="image" src="https://github.com/user-attachments/assets/135595da-6430-41fd-a002-ed3c77520f62" />
+
+
+
+
+
 # 🚀 Ritesh Kumar Portfolio
 
 Welcome to my personal portfolio website!
