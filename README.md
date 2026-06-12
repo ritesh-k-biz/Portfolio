@@ -128,3 +128,45 @@ Currently pursuing higher studies and continuously improving my software develop
 ---
 
 If you find this portfolio interesting, feel free to connect with me and follow my journey as I continue building and learning.
+
+
+
+## Installation
+
+Clone the repository
+
+git clone https://github.com/ritesh-k-biz/Portfolio.git
+
+Navigate to the project folder
+
+cd Portfolio
+
+Install dependencies
+
+npm install
+
+Start development server
+
+npm run dev
+
+
+
+
+
+## Features
+
+- Responsive Design
+- Dark Theme
+- Smooth Animations
+- Project Showcase
+- Skills Section
+- Resume Download
+- Contact Information
+- Mobile Friendly
+
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
